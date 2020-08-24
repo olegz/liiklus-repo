@@ -1,0 +1,2 @@
+liiklus:\
+org.springframework.cloud.stream.binder.liiklus.config.LiiklusMessageChannelBinderConfiguration
